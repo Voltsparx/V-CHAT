@@ -7,7 +7,7 @@
 █     ╚═╝            ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝     █
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 ║► BY: Voltsparx                         VERSION: 3.2 ◄║
-║► GITHUB: github.com/your-repo                       ◄║
+║► GITHUB: https://github.com/Voltsparx/V-CHAT.git    ◄║
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 V-CHAT TERMINAL CHAT v3.2
